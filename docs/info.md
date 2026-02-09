@@ -10,12 +10,11 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 This is only a test of the tools for now.
-Explain how your project works
 
 ## How to test
 
-Explain how to use your project
+This is only a test of the tools for now.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+This is only a test of the tools for now.
