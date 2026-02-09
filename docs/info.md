@@ -9,6 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
+This is only a test of the tools for now.
 Explain how your project works
 
 ## How to test
